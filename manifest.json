@@ -1,0 +1,8 @@
+{
+  "name":"hellopwa",
+  "short_name":"hellopwa",
+  "start_url":".",
+  "background_color":"#6dcdb1",
+  "theme_color":"#009578"
+
+}
